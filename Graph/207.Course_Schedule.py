@@ -1,10 +1,10 @@
-#  *
-#  * LeetCode: 207 - Course Schedule
-#  * Link: https://leetcode.com/course-schedule/
-#  * Difficulty: Medium
-#  * Time: O(V+E) where V is number of vertices and E is number of edges
-#  * Space: O(V)
-#  *
+"""
+ * LeetCode: 207 - Course Schedule
+ * Link: https://leetcode.com/course-schedule/
+ * Difficulty: Medium
+ * Time: O(V+E) where V is number of vertices and E is number of edges
+ * Space: O(V)
+"""
 from collections import deque, defaultdict, Counter
 from typing import List, Optional
 import heapq
