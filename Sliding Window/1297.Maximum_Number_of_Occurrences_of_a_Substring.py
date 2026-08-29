@@ -2,7 +2,7 @@
  * LeetCode: 1297 - Maximum Number of Occurrences of a Substring
  * Link: https://leetcode.com/maximum-number-of-occurrences-of-a-substring/
  * Difficulty: Medium
- * Time: O(n) where n is size of input vector
+ * Time: O(n) where n is length of input string
  * Space: O(n)
 """
 from collections import deque, defaultdict, Counter

@@ -2,8 +2,8 @@
  * LeetCode: 2090 - K Radius Subarray Averages
  * Link: https://leetcode.com/problems/k-radius-subarray-averages/
  * Difficulty: Medium
- * Time: O(n) where n is size of input vector
- * Space: O(n) for storing answer vector, otherwise O(1)
+ * Time: O(n) where n is size of input list
+ * Space: O(n) for storing answer list, otherwise O(1)
 """
 from collections import deque, defaultdict, Counter
 from typing import List, Optional
