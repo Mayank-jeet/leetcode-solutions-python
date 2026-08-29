@@ -1,4 +1,4 @@
-""""
+"""
  * LeetCode: 1297 - Maximum Number of Occurrences of a Substring
  * Link: https://leetcode.com/maximum-number-of-occurrences-of-a-substring/
  * Difficulty: Medium
