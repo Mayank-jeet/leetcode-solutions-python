@@ -5,6 +5,9 @@
  * Time: O(n*√m) where n is size of input vector and m is maximum element is input vector
  * Space: O(k) where k is number of distinct elements in input vector
 """
+from collections import deque, defaultdict, Counter
+from typing import List, Optional
+import heapq
 class Solution:
     def uniformArray(self, nums1: list[int]) -> bool:
         smallestOdd=1e9
