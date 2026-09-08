@@ -12,6 +12,7 @@ The solutions are organized into folders based on their primary data structure o
 leetcode-solutions-python/
 │
 ├── Binary Search/
+├── DP/
 ├── Graph/
 ├── Linked List/
 ├── Prefix Sum/
@@ -30,6 +31,7 @@ leetcode-solutions-python/
 Currently, this repository contains solutions for the following topics:
 
 - Binary Search
+- Dynamic Programming
 - Graph
 - Linked List
 - Prefix Sum
@@ -92,6 +94,7 @@ The solutions in this repository use common techniques such as:
 - Binary Search
 - Breadth-First Search (BFS)
 - Depth-First Search (DFS)
+- Dynamic Programming
 - Prefix Sum
 - Sliding Window
 - Two Pointers
