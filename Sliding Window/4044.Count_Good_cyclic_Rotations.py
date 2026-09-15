@@ -5,6 +5,9 @@
  * Time: O(n)
  * Space: O(1)
 """
+from collections import deque, defaultdict, Counter
+from typing import List, Optional
+import heapq
 class Solution:
     def countGoodRotations(self, nums: list[int]) -> int:
         sum1=0
