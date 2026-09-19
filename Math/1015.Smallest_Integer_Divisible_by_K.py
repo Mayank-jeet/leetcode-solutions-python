@@ -1,5 +1,5 @@
 """ 
-* LeetCode: 1015 - Smallest Integer Divisible by K
+ * LeetCode: 1015 - Smallest Integer Divisible by K
  * Link: https://leetcode.com/problems/smallest-integer-divisible-by-k/
  * Difficulty: Medium
  * Time: O(k)
