@@ -15,6 +15,7 @@ leetcode-solutions-python/
 ├── DP/
 ├── Graph/
 ├── Linked List/
+├── Math/
 ├── Prefix Sum/
 ├── Queue/
 ├── Sliding Window/
@@ -33,7 +34,8 @@ Currently, this repository contains solutions for the following topics:
 - Binary Search
 - Dynamic Programming
 - Graph
-- Linked List
+- Linked List\
+- Math
 - Prefix Sum
 - Queue
 - Sliding Window
