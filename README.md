@@ -14,6 +14,7 @@ leetcode-solutions-python/
 ├── Binary Search/
 ├── DP/
 ├── Graph/
+├── Greedy/
 ├── Linked List/
 ├── Math/
 ├── Prefix Sum/
@@ -34,7 +35,8 @@ Currently, this repository contains solutions for the following topics:
 - Binary Search
 - Dynamic Programming
 - Graph
-- Linked List\
+- Greedy
+- Linked List
 - Math
 - Prefix Sum
 - Queue
@@ -100,6 +102,7 @@ The solutions in this repository use common techniques such as:
 - Prefix Sum
 - Sliding Window
 - Two Pointers
+- Greedy
 - Sorting
 - Stack-Based Techniques
 - Queue-Based Techniques
