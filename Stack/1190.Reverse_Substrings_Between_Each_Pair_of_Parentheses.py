@@ -1,6 +1,6 @@
 """
  * LeetCode: 1190 - Reverse Substrings Between Each Pair of Parentheses
- * Link: https://leetcode.com/problems/reorder-list/
+ * Link: https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/
  * Difficulty: Medium
  * Time: O(n) is n length of input vector
  * Space: O(n)
