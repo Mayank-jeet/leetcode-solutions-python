@@ -1,7 +1,7 @@
 """
  * LeetCode: 301 - Remove Invalid Parentheses
  * Link: https://leetcode.com/problems/remove-invalid-parentheses/
- * Difficulty: Medium
+ * Difficulty: Hard
  * Time: O(n⋅2^p)
  * Space: O(n⋅2^p)
 """
