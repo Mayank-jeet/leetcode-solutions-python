@@ -1,7 +1,7 @@
 """
  * LeetCode: 3882 - Minimum XOR Path in a Grid
  * Link: https://leetcode.com/problems/minimum-xor-path-in-a-grid/
- * Difficulty: Hard
+ * Difficulty: Medium
  * Time: O(m*n*V) where m and n are the dimensions of the grid and V is the number of possible XOR values
  * Space: O(m*n*V)
 """
